@@ -152,52 +152,5 @@
             "thumbnail": "http://192.168.1.7:3000/assets/saga.jpg",
             "announcer": "حسین رضوی"
         }
-    ],
-    "authors": [
-        {
-            "slug": "feodor-dostoievski",
-            "thumbnail": "http://192.168.1.7:3000/assets/authors/dasta.jpg",
-            "name": "فیودور داستایفسکی"
-        },    
-        {
-            "slug": "mahmoud_dowlatabadi",
-            "thumbnail": "http://192.168.1.7:3000/assets/authors/mahmoud_dowlatabadi.jpg",
-            "name": "محمود دولت آبادی"
-        },
-        {
-            "slug": "alain-de-botton",
-            "thumbnail": "http://192.168.1.7:3000/assets/authors/alain-de-botton.jpg",
-            "name": "آلن دوباتن"
-        },
-        {
-            "slug": "leo-tolstoy",
-            "thumbnail": "http://192.168.1.7:3000/assets/authors/leo-tolstoy.jpg",
-            "name": "لئو تولستوی"
-        },
-        {
-            "slug": "elif-shafak",
-            "thumbnail": "http://192.168.1.7:3000/assets/authors/elif-shafak.jpg",
-            "name": "الیف شافاک"
-        },
-        {
-            "slug": "haruki-murakami",
-            "thumbnail": "http://192.168.1.7:3000/assets/authors/haruki-murakami.jpg",
-            "name": "هاروکی موراکامی"
-        },
-        {
-            "slug": "jk-rowling",
-            "thumbnail": "http://192.168.1.7:3000/assets/authors/jk-rowling.jpeg",
-            "name": "جی کی رولینگ"
-        },
-        {
-            "slug": "jalal-al-e-ahmad",
-            "thumbnail": "http://192.168.1.7:3000/assets/authors/jalal-ale-ahmad.jpg",
-            "name": "جلال آل احمد"
-        },
-        {
-            "slug": "franz-kafka",
-            "thumbnail": "http://192.168.1.7:3000/assets/authors/kafka.jpg",
-            "name": "فرانتس کافکا"
-        }
     ]
 }
